@@ -6,3 +6,5 @@
 android/* linguist-documentation=false
 ios/* linguist-documentation=false
 linux/* linguist-documentation=false
+windows/* linguist-documentation=false
+web/* linguist-documentation=false
