@@ -1,0 +1,8 @@
+  cupertino_icons linguist-detectable=false
+  font_awesome_flutter linguist-detectable=false
+
+
+
+android/* linguist-documentation=false
+ios/* linguist-documentation=false
+linux/* linguist-documentation=false
