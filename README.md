@@ -1,6 +1,6 @@
 ## Calcular IMC
 
-Projeto destinado ao aprendizado de flutter, através do canla Polimorfismo no youtube
+Projeto destinado ao aprendizado de flutter, através do canal Polimorfismo no youtube
 
 
 ## Getting Started
