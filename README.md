@@ -2,18 +2,7 @@
 
 Projeto destinado ao aprendizado de flutter, através do canal Polimorfismo no youtube
 
+![image](https://user-images.githubusercontent.com/19211901/226106473-9d9812f3-6f8b-4005-807c-d407b388e6ff.png)
+![image](https://user-images.githubusercontent.com/19211901/226106495-10a53357-ccac-4eb8-b89e-5399af40c07c.png)
 
-## Getting Started
 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [Canal Polimorfismo] (https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
